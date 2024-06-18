@@ -1,3 +1,5 @@
+Running on Openshift:
+
 Create ns infra-test-fw:
 
 ```
